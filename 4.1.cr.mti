@@ -1,0 +1,39 @@
+C:/intelFPGA/CAONHUY_FPGA/caoy_tb_sum_4bit.v {1 {vlog -work work -stats=none C:/intelFPGA/CAONHUY_FPGA/caoy_tb_sum_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module caoy_tb_sum4bit
+
+Top level modules:
+	caoy_tb_sum4bit
+
+} {} {}} C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v {0 {vlog -work work -stats=none C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module full_adder
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(4.16): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(4.18): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(4.20): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(4.22): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(6.19): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(6.21): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(6.23): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(9.22): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(9.24): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(9.26): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(9.28): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(1): (vlog-2730) Undefined variable: 'c'.
+** Error: C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(1): Identifier must be declared with a port mode: c.
+-- Compiling module sum_4bit
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(13.0): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(13.2): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(13.24): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(13.26): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(14.0): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(14.2): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(14.24): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(14.26): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(15.0): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(15.2): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(15.24): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(15.26): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (vlog-13067) C:/intelFPGA/CAONHUY_FPGA/sum_4bit.v(19.17): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+
+} {4.0 17.0 18.0 31.0} {}}

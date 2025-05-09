@@ -1,0 +1,29 @@
+C:/intelFPGA/CAONHUY_FPGA/decoder3to8_en0.v {1 {vlog -work work -stats=none C:/intelFPGA/CAONHUY_FPGA/decoder3to8_en0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder3to8_en0
+
+Top level modules:
+	decoder3to8_en0
+
+} {} {}} C:/intelFPGA/CAONHUY_FPGA/caoy_tb_decoder3to8_en0.v {1 {vlog -work work -stats=none C:/intelFPGA/CAONHUY_FPGA/caoy_tb_decoder3to8_en0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module caoy_tb_decoder3to8
+
+Top level modules:
+	caoy_tb_decoder3to8
+
+} {} {}} C:/intelFPGA/CAONHUY_FPGA/caoy_tb_decoder3to8_en1.v {1 {vlog -work work -stats=none C:/intelFPGA/CAONHUY_FPGA/caoy_tb_decoder3to8_en1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module caoy_tb_decoder3to8_en1
+
+Top level modules:
+	caoy_tb_decoder3to8_en1
+
+} {} {}} C:/intelFPGA/CAONHUY_FPGA/decoder3to8_en1.v {1 {vlog -work work -stats=none C:/intelFPGA/CAONHUY_FPGA/decoder3to8_en1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder3to8_en1
+
+Top level modules:
+	decoder3to8_en1
+
+} {} {}}
